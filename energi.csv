@@ -1,6 +1,6 @@
 fødevare,energi (kJ/100g),energi/portion,protein/100g
 kartofler,322,700,2
-rugbrød,900,300,6.4
+rugbrød,900,250,6.4
 havregryn,1528,900,11.7
 majs,354,115,2.8
 mælk,267,178,3.4
@@ -14,7 +14,7 @@ rosiner,1433,200,1
 tun,552,552,28
 banan,372,558,1.1
 appelsin,197,300,0.9
-gulerødder,173,250,0.9
+gulerod,173,250,0.9
 agurk,67,200,0.7
 vindruer,288,576,0.7
 kyllingbryst,749,1123,31
@@ -38,7 +38,11 @@ leverpostej,1000,275,11
 søde kartofler,360,750,2
 broccoli,142,300,2.8
 cheasy protein yoghurt,200,400,6.5
-mandler,2423,1211,21.2
 kalv,720,1080,24.4
 karrysild,1275,750,5.1
 kyllingleverpostej,725,218,11
+mandler,2423,800,21.2
+proteindrik,247,809,24
+skyr,233,348,8.6
+græsk yoghurt,514,514,4.2
+edamame,507,250,11.9
