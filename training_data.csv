@@ -1,4 +1,4 @@
-navn,kategori,dato,lokation,km,tid,præcis tid,HR
+navn,kategori,dato,lokation,km,tid,præcis tid,HR,split
 Løb - distance,Distance,22-08-2022,Søndermarken,4.58,00:30:00,
 Løb - distance,Distance,24-08-2022,Søndermarken,4.77,00:30:00,
 Blandet,Tempo,26-08-2022,Søndermarken,3.43,00:00:00,
@@ -412,3 +412,10 @@ Løb,Tempo,14-04-2025,,5.28,00:28:52,Y,150
 Løb,Tempo,17-04-2025,,1.85,00:10:47,Y,144
 Løb,Tempo,17-04-2025,,5.00,00:26:39,Y,154
 Træning,Free,20-04-2025,,,00:55:00,Y,
+Træning,Free,21-04-2025,,,00:40:00,Y,
+Løb,Free,27-04-2025,,1.11,00:05:44,Y,
+Løb,Tempo,27-04-2025,,8.70,00:45:28,Y,163
+Løb,Free,29-04-2025,,1.49,00:05:59,Y
+Løb,Free,29-04-2025,,3.49,00:20:07,Y,148
+Løb,Distance,04-05-2025,,10.01,00:51:59,Y,157
+Løb,Free,10-05-2025,,3.94,00:21:31,Y,141
